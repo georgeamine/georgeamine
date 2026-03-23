@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-📍 Australia | 🎥 Open source builder | 🚀 Building local-first tools
+**📍 Australia | 🎥 Open source builder | 🚀 Building local-first tools**
 
 TypeScript JavaScript Node.js Chrome Extensions Next.js React Web
 
