@@ -8,4 +8,4 @@ Deep in build mode, working on practical local-first software with a bias toward
 
 ## Current Projects
 
-🎥 [Spool](https://github.com/georgeamine/spool) - open source video recording Chrome extension
+- 🎥 [Spool](https://github.com/georgeamine/spool) - open source video recording Chrome extension
