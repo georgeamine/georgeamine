@@ -4,7 +4,7 @@
 
 TypeScript JavaScript Node.js Chrome Extensions Next.js React Web
 
-Deep in build mode, working on practical local-first software with a bias toward simple UX and fast iteration.
+> Deep in build mode, working on practical local-first software with a bias toward simple UX and fast iteration.
 
 ## Current Projects
 
